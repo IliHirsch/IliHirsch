@@ -1,24 +1,104 @@
-# 💫 About Me:
-I am a dual student in Embedded Systems with a completed vocational training as a mechatronics technician 🔧. <br>I work with C/C++, MATLAB, ESP32, and STM32, focusing on low-level embedded development and hardware–software integration⚡.<br> My goal is to build efficient, reliable embedded systems for real-world applications and advanced technologies.<br>
+# 💫 About Me
+I am a dual student in Embedded Systems with a completed vocational training as a mechatronics technician 🔧.  
+I specialize in low-level embedded development, working with STM32 and ESP32 microcontrollers, focusing on efficient, reliable, and hardware-oriented software ⚡.  
 
+My goal is to design robust embedded systems for real-world applications and advanced technologies.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ilias.Hirschmann@web.de) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IliHirsch&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IliHirsch&theme=tokyonight&hide_border=false)<br/>
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+# 🌐 Contact
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ilias.Hirschmann@web.de)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IliHirsch&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### 🔝 Top Contributed Repo
+# 🔧 Embedded Systems Focus
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif)
+![Embedded](https://img.shields.io/badge/Embedded-Systems-black?style=for-the-badge)
+![Bare Metal](https://img.shields.io/badge/Bare--Metal-Programming-darkgreen?style=for-the-badge)
+
+• STM32 development (HAL and bare-metal)  
+• ESP32 firmware development  
+• Hardware–software integration  
+• Low-level debugging  
+• Communication protocols (UART, SPI, I2C)  
+• Real-time and efficient embedded software  
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
+
+### Embedded / Hardware
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+
+### Tools
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+---
+
+# 🚀 Featured Projects
+
+### STM32 Bare-Metal Drivers
+Low-level drivers written in C for STM32 microcontrollers.
+
+### ESP32 Embedded Applications
+Sensor interfacing, communication protocols, and firmware development.
+
+### Embedded Communication Protocols
+Implementation of UART, SPI, and I2C communication systems.
+
+---
+
+# 📊 GitHub Statistics
+
+## General Stats
+![](https://github-readme-stats.vercel.app/api?username=IliHirsch&theme=tokyonight&hide_border=true&show_icons=true)
+
+## Streak Stats
+![](https://streak-stats.demolab.com?user=IliHirsch&theme=tokyonight&hide_border=true)
+
+## Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IliHirsch&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+# 📈 Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=IliHirsch&theme=tokyo-night)
+
+---
+
+# 🏆 GitHub Achievements
+![](https://github-profile-trophy.vercel.app/?username=IliHirsch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+# 📊 Detailed Contribution Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliHirsch&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IliHirsch&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IliHirsch&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IliHirsch&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IliHirsch&theme=tokyonight)
+
+---
+
+# 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=IliHirsch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IliHirsch&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👁 Profile Views
+![](https://visitcount.itsvg.in/api?id=IliHirsch&icon=2&color=6)
