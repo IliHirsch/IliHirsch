@@ -12,11 +12,11 @@ My goal is to design robust embedded systems for real-world applications and adv
 ---
 
 # 🔧 Embedded Systems Focus
-
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-6A0DAD?style=for-the-badge)
+![Bare Metal](https://img.shields.io/badge/Bare--Metal-007ACC?style=for-the-badge)
+![Mechatronics](https://img.shields.io/badge/Mechatronics-CC0000?style=for-the-badge)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif)
-![Embedded](https://img.shields.io/badge/Embedded-Systems-black?style=for-the-badge)
-![Bare Metal](https://img.shields.io/badge/Bare--Metal-Programming-darkgreen?style=for-the-badge)
 
 • STM32 development (HAL and bare-metal)  
 • ESP32 firmware development  
