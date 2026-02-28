@@ -32,18 +32,46 @@ My goal is to design robust embedded systems for real-world applications and adv
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 
-### Embedded / Hardware
+---
+
+### Embedded Platforms
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
-### Tools
+---
+
+### Embedded Development Tools
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=for-the-badge)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-orange?style=for-the-badge)
+![GCC](https://img.shields.io/badge/GCC-gray?style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-darkblue?style=for-the-badge)
+
+---
+
+### PCB Design & CAD
+![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge)
+![Autodesk Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk)
+![Onshape](https://img.shields.io/badge/Onshape-1B5FAA?style=for-the-badge)
+
+---
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-black?style=for-the-badge&logo=git)
+
+---
+
+### Development Environment
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ---
 
