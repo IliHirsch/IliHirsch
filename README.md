@@ -60,35 +60,16 @@ Implementation of UART, SPI, and I2C communication systems.
 
 ---
 
-# 📊 GitHub Statistics
-
-## General Stats
-![](https://github-readme-stats.vercel.app/api?username=IliHirsch&theme=tokyonight&hide_border=true&show_icons=true)
-
-## Streak Stats
-![](https://streak-stats.demolab.com?user=IliHirsch&theme=tokyonight&hide_border=true)
-
-## Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IliHirsch&theme=tokyonight&hide_border=true&layout=compact)
-
----
 
 # 📈 Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=IliHirsch&theme=tokyo-night)
 
 ---
 
-# 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=IliHirsch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
 
 # 📊 Detailed Contribution Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliHirsch&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IliHirsch&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IliHirsch&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IliHirsch&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IliHirsch&theme=tokyonight)
@@ -100,5 +81,8 @@ Implementation of UART, SPI, and I2C communication systems.
 
 ---
 
-# 👁 Profile Views
-![](https://visitcount.itsvg.in/api?id=IliHirsch&icon=2&color=6)
+# 🏆 GitHub Achievements
+![](https://github-profile-trophy.vercel.app/?username=IliHirsch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
