@@ -89,28 +89,19 @@ Implementation of UART, SPI, and I2C communication systems.
 ---
 
 
-# 📈 Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=IliHirsch&theme=tokyo-night)
-
----
-
-
 # 📊 Detailed Contribution Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliHirsch&theme=tokyonight)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliHirsch&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IliHirsch&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IliHirsch&theme=tokyonight)
-
----
-
-# 🔝 Top Contributed Repository
-![](https://github-contributor-stats.vercel.app/api?username=IliHirsch&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IliHirsch&theme=tokyonight)
+![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IliHirsch&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=IliHirsch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+| <a href="https://github.com/IliHirsch?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark" title="Pull Shark"></a> | <a href="https://github.com/IliHirsch?tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100" alt="Quickdraw" title="Quickdraw"></a> |
+|:---:|:---:|
+| **Pull Shark** | **Quickdraw** |
 
 ---
-
