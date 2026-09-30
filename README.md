@@ -33,7 +33,6 @@ My goal is to design robust embedded systems for real-world applications and adv
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 
 ---
 
