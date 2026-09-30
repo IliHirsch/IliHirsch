@@ -89,6 +89,26 @@ Implementation of UART, SPI, and I2C communication systems.
 ---
 
 
+# 🗂️ Projects
+
+### 🚀 My Projects
+| Project | Description | Tech |
+|---|---|---|
+| [Dashboard-Weather](https://github.com/IliHirsch/Dashboard-Weather) | Hobby project for learning React (Vite + Electron) | JavaScript, React |
+
+### 👥 Group Projects
+| Project | Description | Tech |
+|---|---|---|
+| [parkhaus-simulation](https://github.com/IliHirsch/parkhaus-simulation) | Parking garage simulation, built with [@StefanNass](https://github.com/StefanNass) and [@Henrik-Dubiel](https://github.com/Henrik-Dubiel) | C |
+
+### 🍴 Forks
+| Project | Original | Description |
+|---|---|---|
+| [study-code-ili](https://github.com/IliHirsch/study-code-ili) | [christian-braunagel/study-code](https://github.com/christian-braunagel/study-code) | Materials to learn and practice coding |
+| [RADAR](https://github.com/IliHirsch/RADAR) | [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | Open-source 10.5 GHz PLFM phased array radar |
+
+---
+
 # 📈 Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=IliHirsch&theme=tokyo-night)
 
